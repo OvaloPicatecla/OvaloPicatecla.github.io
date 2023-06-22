@@ -1,7 +1,6 @@
 ## This is my first blog post
 
-cosas cosas
-
+try try
  ```tsql
  SELECT *
  FROM sys.tables
