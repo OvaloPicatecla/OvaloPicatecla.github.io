@@ -1,5 +1,9 @@
+## Writing thingies
+
 starting
 
-SELECT *
-FROM sys.tables
-WHERE [name] = 'SomeTable'
+ ```tsql
+ SELECT *
+ FROM sys.tables
+ WHERE [name] = 'SomeTable'
+ ```
