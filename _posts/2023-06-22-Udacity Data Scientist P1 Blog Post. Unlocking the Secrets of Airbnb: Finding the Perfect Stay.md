@@ -29,10 +29,12 @@ Armed with this information, you can navigate the pricing landscape to find the 
 
 3. A closer look into Ratings:
 
+Ratings and reviews provide crucial insights into the quality of Airbnb listings. Our exploration of rating scores reveals reassuring results.
+
 ![image](https://github.com/OvaloPicatecla/OvaloPicatecla.github.io/assets/124590898/763308ce-bdd5-4f29-9014-5e26932e9f28)
 
 
-   Ratings and reviews provide crucial insights into the quality of Airbnb listings. Our exploration of rating scores reveals reassuring results. The majority of guests have positive experiences, as negative reviews are relatively rare. Only when the rating score dips below 90 do we observe a notable proportion of negative reviews. Even at the threshold of 95 out of 100, the proportion remains impressively low. 
+The majority of guests have positive experiences, as negative reviews are relatively rare. Only when the rating score dips below 90 do we observe a notable proportion of negative reviews. Even at the threshold of 95 out of 100, the proportion remains impressively low. 
 
 
 ![image](https://github.com/OvaloPicatecla/OvaloPicatecla.github.io/assets/124590898/0bd9ae82-ea27-422d-9dc1-6177979ee5c1)
@@ -49,8 +51,3 @@ Happy travelling!
 
 
 
- ```tsql
- SELECT *
- FROM sys.tables
- WHERE [name] = 'SomeTable'
- ```
