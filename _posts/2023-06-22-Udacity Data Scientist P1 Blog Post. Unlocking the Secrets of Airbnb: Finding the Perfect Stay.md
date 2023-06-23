@@ -1,4 +1,4 @@
-## Udacity Data Scientist P1 Blog Post. Unlocking the Secrets of Airbnb: Finding the Perfect Stay
+## Udacity Data Scientist P1 Blog Post. Unlocking the Secrets of Airbnb: Finding the Perfect Seattle Stay
 
 ![image](https://github.com/OvaloPicatecla/OvaloPicatecla.github.io/assets/124590898/107ff9b4-9c48-4ecc-abc1-acc0e2653d24)
 
@@ -43,7 +43,7 @@ The majority of guests have positive experiences, as negative reviews are relati
 
 Our analysis of accuracy, cleanliness, check-in, communication, location, and value ratings highlights some interesting variations. Notably, check-in and communication receive consistently high scores, indicating a solid and reliable Airbnb experience. On the other hand, categories such as cleanliness and location, which are more subjective, show slightly lower but still excellent ratings. These variations underscore the authenticity and diversity of guest experiences, adding to the richness of your travel encounters.
 
-Happy travelling!
+With all of this newfound knowledge, you will find the best posible location for your next vacation in Seattle at a great pice as well! Happy travelling and always remember to text your mum you arrived sound and save! 
 
 
 
